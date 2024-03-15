@@ -53,14 +53,14 @@ git clone https://github.com/HR-Works/DevOps-Apprenticeship.git
 - Navigate to the project directory you want to work on.
 - Read the project's README file and follow the instructions to complete the project.
 - Once you've completed a project, commit your changes and push them to the repository.
-### Contributing
+## Contributing
 - Contributions to this repository are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. 
 - Additionally, if you have completed any of the projects and would like to share your solution, feel free to create a new folder within the appropriate level directory and include your code and documentation.
 
-### Resources
+## Resources
 This repository provides a starting point for learning DevOps, but it's recommended to explore additional resources, such as online courses, tutorials, and documentation, to deepen your understanding of the tools and concepts covered in these projects.
 
-### License
+## License
 This repository is licensed under the MIT License.
 
 Acknowledgments
