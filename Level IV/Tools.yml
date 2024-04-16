@@ -1,0 +1,28 @@
+***NOTE - The List of tools and their usage 
+	• Terraform: 6.25%
+	• AWS: 6.25%
+	• GCP: 6.25%
+	• Chaos Monkey: 4.17%
+	• Kubernetes: 4.17%
+	• Docker: 4.17%
+	• Istio: 4.17%
+	• Kubeflow: 4.17%
+	• Jenkins: 4.17%
+	• Open Policy Agent (OPA): 4.17%
+	• Gremlin: 4.17%
+	• AWS Lambda/Azure Functions: 4.17%
+	• HashiCorp Consul: 4.17%
+	• Kubernetes RBAC: 4.17%
+	• OPA/Gatekeeper: 4.17%
+	• ArgoCD: 4.17%
+	• Cloud-specific APIs: 4.17%
+	• Terraform Cloud: 4.17%
+	• Pulumi: 4.17%
+	• Python: 4.17%
+	• Go: 4.17%
+	• Cloud cost management tools: 4.17%
+	• Kubernetes autoscaling: 4.17%
+	• Litmus Chaos Engine: 4.17%
+	• GitHub: 4.17%
+	• Open-source DevOps communities: 4.17%
+
